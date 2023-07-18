@@ -1,0 +1,24 @@
+commit 62c137d6e56a9f1ce19de25f438e223c80a080de
+Author: amoedogabriel <gbas95@gmail.com>
+Date:   Tue Jul 18 15:07:24 2023 -0400
+
+    adcionando arquivo log e arquivo com link do video-explicação
+
+commit c66be6a040181a67bc687481a1d055b9e0fe2acf
+Author: amoedogabriel <gbas95@gmail.com>
+Date:   Tue Jul 18 14:47:59 2023 -0400
+
+    subindo para o github
+
+commit 3c9e90af3ece792aafb4af313e202eb8cbdf572f
+Author: amoedogabriel <gbas95@gmail.com>
+Date:   Tue Jul 18 14:47:27 2023 -0400
+
+    adicioando link de stylo css
+
+commit 2c72d22dc79a7c8d53a5f7123e84d7f949755502
+Author: amoedogabriel <gbas95@gmail.com>
+Date:   Tue Jul 18 14:46:05 2023 -0400
+
+    adicioando link de imagens de produtos
+
